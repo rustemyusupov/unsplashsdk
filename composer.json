@@ -16,7 +16,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "ryusupov\\unsplashsdk\\UnsplashSDKServiceProvider"
+                "RYusupov\\UnsplashSDK\\UnsplashSDKServiceProvider"
             ]
         }
     },

@@ -12,6 +12,11 @@ This package uses environment variables
 Package should be added in composer file:
 
 ```json
+"require": {
+    .......
+    "ryusupov/unsplashsdk": "master"
+},
+
 "repositories":[
     {
         "type": "git",
